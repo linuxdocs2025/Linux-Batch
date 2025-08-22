@@ -19,7 +19,7 @@ These are the most commonly used commands for navigation, file manipulation, and
 | `cd` | Changes the current directory |
 | `touch` | Creates an empty file |
 | `mkdir` | Creates a new directory |
-| `rm` | Deletes files and directories |
+| `rm -rf` | Deletes files and directories |
 | `cp` | Copies files and directories |
 | `mv` | Moves or renames files and directories |
 | `echo` | Displays a line of text or variable value |
