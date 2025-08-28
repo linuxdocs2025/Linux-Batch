@@ -1,4 +1,4 @@
-# 📦 Managing Software in Linux
+# 📦 Managing Software 
 
 Linux systems use package managers to install, update, and remove software. Package management varies based on the distribution family (Debian-based, Red Hat-based, etc.).
 
