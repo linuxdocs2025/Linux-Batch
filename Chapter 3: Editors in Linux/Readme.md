@@ -1,4 +1,4 @@
-# ✏️ Text Editors in Linux
+# ✏️ Text Editors 
 
 Text editors are essential tools for working in a Linux environment. They are used for editing configuration files, writing scripts, coding programs, and general text processing.
 
