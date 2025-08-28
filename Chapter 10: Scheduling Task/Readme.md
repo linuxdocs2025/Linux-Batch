@@ -1,4 +1,4 @@
-# ⏰ Scheduling Tasks in Linux
+# ⏰ Scheduling Tasks 
 
 Linux allows scheduling tasks using **cron** (recurring jobs) and **at** (one-time jobs).
 
