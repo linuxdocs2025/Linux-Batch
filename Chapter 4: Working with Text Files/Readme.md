@@ -1,4 +1,4 @@
-# Working with Text Files in Linux
+# Working with Text Files 
 
 In Linux, text files are the most common way to store data, configurations, and scripts.
 This guide covers different commands and examples to **create, view, edit, search, and manipulate text files**.
